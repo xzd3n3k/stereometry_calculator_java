@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="stereometry_calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stereometry_calculator_jar</output-path>
+    <root id="archive" name="stereometry_calculator.jar">
+      <element id="module-output" name="stereometry_calculator" />
+    </root>
+  </artifact>
+</component>
